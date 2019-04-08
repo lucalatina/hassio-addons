@@ -7,10 +7,10 @@
     "image": "vkorn/{arch}-ps4waker",
     "startup": "after",
     "boot": "auto",
-    "arch": "armv7",
     "host_network": true,
     "options": {
         "port": 3030,
+        "arch": "armv7",
         "devices": [
             {
                 "client_type": "i",
