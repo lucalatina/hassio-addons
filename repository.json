@@ -1,5 +1,6 @@
 {
   "name": "Vlad's repository",
   "url": "https://github.com/vkorn/hassio-addons",
-  "maintainer": "vkorn <vladkorniev@gmail.com>"
+  "maintainer": "vkorn <vladkorniev@gmail.com>",
+  "arch": "armv7"
 }
