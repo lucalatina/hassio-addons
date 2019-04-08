@@ -1,6 +1,5 @@
 {
   "name": "LucaP's repository",
   "url": "https://github.com/lucalatina/hassio-addons.git",
-  "maintainer": "LucaP <lucalatina@gmail.com>",
-  "arch": "armv7"
+  "maintainer": "LucaP <lucalatina@gmail.com>"
 }
