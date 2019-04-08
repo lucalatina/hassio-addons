@@ -4,7 +4,7 @@
     "slug": "devlocator",
     "description": "Simple IP and device name loockup for internal network",
     "url": "https://github.com/vkorn/hassio-addons/tree/master/devicelocator",
-    "image": "vkorn/{arch}-devicelocator",
+    "image": "vkorn/armhf-devicelocator",
     "startup": "after",
     "boot": "auto",
     "host_network": true,
