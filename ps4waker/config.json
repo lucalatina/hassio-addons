@@ -4,7 +4,7 @@
     "slug": "ps4waker",
     "description": "REST wrapper around PS4-Waker (https://github.com/dhleong/ps4-waker)",
     "url": "https://github.com/lucalatina/hassio-addons/tree/master/ps4waker",
-    "image": "vkorn/armvhf-ps4waker",
+    "image": "vkorn/armhf-ps4waker",
     "startup": "after",
     "boot": "auto",
     "host_network": true,
