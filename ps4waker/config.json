@@ -6,6 +6,12 @@
     "url": "https://github.com/lucalatina/hassio-addons/tree/master/ps4waker",
     "image": "vkorn/armhf-ps4waker",
     "startup": "after",
+    "arch": [
+        "aarch64",
+        "amd64",
+        "armhf",
+        "i386"
+    ],
     "boot": "auto",
     "host_network": true,
     "options": {
